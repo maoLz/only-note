@@ -1,0 +1,19 @@
+#nacos
+
+# 自动配置
+
+NacosDiscoveryProperties
+
+NacosServiceManager
+
+NacosServiceDiscovery
+
+NamingMaintainService NamingService
+
+RibbonAutoConfiguration
+
+NacosDiscoveryEndpointAutoConfiguration
+
+NacosRegistration
+
+NacosAutoServiceRegistration
