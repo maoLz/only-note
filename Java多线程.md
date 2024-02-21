@@ -66,3 +66,15 @@ Java6之后：根据同一个线程上次自旋的时间决定
 
 #### 非公平锁
 非公平锁只要CAS设置同步状态成功，则表示当前线程获取了锁，线程获取锁的顺序和调用lock的顺序无关
+
+# 线程池
+
+
+
+synchronized 和 ReentrantLock 都是 Java 中提供的可重入锁，二者的主要区别有以下 5 个：
+
+- ​**用法不同**：synchronized 可以用来修饰普通方法、静态方法和代码块，而 ReentrantLock 只能用于代码块。
+- **获取锁和释放锁的机制不同**：synchronized 是自动加锁和释放锁的，而 ReentrantLock 需要手动加锁和释放锁。
+- **锁类型不同**：synchronized 是非公平锁，而 ReentrantLock 默认为非公平锁，也可以手动指定为公平锁。
+- **响应中断不同**：ReentrantLock 可以响应中断，解决死锁的问题，而 synchronized 不能响应中断。
+- **底层实现不同**：synchronized 是 JVM 层面通过监视器实现的，而 ReentrantLock 是基于 AQS 实现的。​

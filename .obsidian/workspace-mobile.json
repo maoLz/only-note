@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "f13ccec4ca64a7cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "028edf5b9c438c4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5a1986b79801b0b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6dd04b36f3273dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "要求.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "793ba8b69be11de4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "05625343fc6fe166",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d0335a9cfdd78a4f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b91b1a6b27040012",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d5409e5ac932c742",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d1364a9e06c092e8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "52599619ec506a60",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "要求.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5a7e9955d68bc75b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "要求.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ee54b68d24ce1fb9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "要求.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6dd04b36f3273dd5",
+  "lastOpenFiles": [
+    "要求.md",
+    "Untitled.canvas",
+    "难点.md",
+    "一些源码笔记.md",
+    "Untitled",
+    "算法.md",
+    "2023-09-13.md",
+    "springboot.md",
+    "nacos.md",
+    "springboot扩展点/ApplicationContextInitializer.md",
+    "classLoader.md",
+    "logback.md",
+    "设计模式.md",
+    "软考/计算机基础知识.md"
+  ]
+}
